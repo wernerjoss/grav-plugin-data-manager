@@ -53,6 +53,10 @@ class DataManagerPlugin extends Plugin
         // Get data path
         $locator = $this->grav['locator'];
         $path = $locator->findResource('user-data://', true);
+        // begin mods WJ
+        $path = $path.$this->config->get('plugins.data-manager.route');    // so klappts :-)
+        // dump($path);
+        // end mods WJ
 
 
         if (strpos($uri->path(), $this->config->get('plugins.admin.route') . '/' . $this->route) === false) {

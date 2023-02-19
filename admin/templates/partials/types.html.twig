@@ -1,6 +1,6 @@
 <div class="gpm gpm-themes">
     <h1>
-        {{ "PLUGIN_DATA_MANAGER.DATA_TYPES"|e|tu|raw }}
+        {{ "PLUGIN_DATA_MANAGER.DATA_TYPES"|e|tu|raw }} in data{{ config.plugins['data-manager'].route }}
     </h1>
     <div class="gpm gpm-themes themes card-row grid fixed-blocks pure-g">
         {% for type, count in grav.twig.types %}

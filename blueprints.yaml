@@ -1,14 +1,14 @@
 name: Data Manager
-version: 1.4.1
+version: 1.4.2
 description: Adds an administration panel to visualize the data
 icon: database
 author:
-  name: Team Grav
+  name: Team Grav, Werner Joss 
   email: devs@getgrav.org
   url: http://getgrav.org
-homepage: https://github.com/getgrav/grav-plugin-data-manager
+homepage: https://github.com/wernerjoss/grav-plugin-data-manager
 keywords: admin, plugin, manager, panel, data, manager
-bugs: https://github.com/getgrav/grav-plugin-data-manager/issues
+bugs: https://github.com/wernerjoss/grav-plugin-data-manager/issues
 license: MIT
 
 dependencies:
