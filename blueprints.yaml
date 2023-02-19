@@ -27,3 +27,9 @@ form:
         0: PLUGIN_ADMIN.DISABLED
       validate:
         type: bool
+    route:
+      type: text
+      required: false
+      label: Route relative to user/data from where Data Manager starts (e.g. /comments/de for comments from comments Plugin)
+      help: leave this empty if not sure, this is the default behaviour (Data Manager starts from user/data)
+      size: medium
