@@ -1,3 +1,9 @@
+# v1.4.2
+## 02/20/2023
+
+1. [](#new)
+   * introduced new config Option 'route' - see [this Thread on Discourse](https://discourse.getgrav.org/t/plugin-datamanager-not-showing-comments/22753)
+
 # v1.4.1
 ## 01/08/2022
 

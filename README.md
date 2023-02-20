@@ -157,6 +157,10 @@ types:
 
 to provide a better name.
 
+## Customize Start Folder for handling Data from special Plugins, like [Comments](https://github.com/getgrav/grav-plugin-comments)
+
+see [This Thread on Discourse](https://discourse.getgrav.org/t/plugin-datamanager-not-showing-comments/22753)
+
 # Override items list and item detail templates
 
 You can override items list and item details Twig templates using a plugin.
