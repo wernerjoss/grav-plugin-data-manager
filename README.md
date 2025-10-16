@@ -1,5 +1,7 @@
 # Grav Data Manager Plugin
 
+## please note that this Fork is no longer supported an will be archived soon, as I have given up on Grav development since my switch to [Hugo](https://gohugo.io) in 2024.
+
 The **Data Manager Plugin** for [Grav](http://github.com/getgrav/grav) adds the ability to visualize data. This is particularly useful for the **admin** and **form** plugins.
 Additional plugins may store data content, and the Data plugin - properly configured - is able to show their data too.
 
